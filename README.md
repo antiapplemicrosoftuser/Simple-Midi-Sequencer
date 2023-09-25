@@ -1,5 +1,10 @@
 # Simple-Midi-Sequencer
-簡易的なMidiシーケンサを作りました。
+授業でのArduinoを使った自由制作として簡易的なMidiシーケンサを作りました。
+
+## 完成品紹介動画
+こちら
+↓
+https://www.youtube.com/watch?v=xDMtl49sN1Q
 
 ## 各ファイルの説明
 ### 1
